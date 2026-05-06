@@ -2,6 +2,10 @@
 
 Go structures to describe Wiktionary data.
 
+## Notes
+
+This repository has been migrated to [Codeberg](https://codeberg.org/FreeDictionary/wiktionary-schema-go.git).
+
 ## File Order
 
 Schemas of different languages are stored in
